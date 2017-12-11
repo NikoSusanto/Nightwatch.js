@@ -5,9 +5,9 @@
 
   <testsuite name="cermati"
     errors="0" failures="0" hostname="" id="" package="cermati" skipped="0"
-    tests="1" time="96.70" timestamp="Mon, 11 Dec 2017 04:53:22 GMT">
+    tests="1" time="305.7" timestamp="Mon, 11 Dec 2017 05:00:57 GMT">
   
-    <testcase name="QA Engineer Test" classname="cermati" time="96.70" assertions="3">
+    <testcase name="QA Engineer Test" classname="cermati" time="305.7" assertions="3">
 
     
 
